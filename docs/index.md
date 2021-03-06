@@ -5,8 +5,6 @@ lang: en-US
 
 # Hello VitePress
 
-![An image](./assets/images/hello.jpeg)
-
 [[toc]]
 
 ## Heading 2
